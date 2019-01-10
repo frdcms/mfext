@@ -30,7 +30,7 @@ Group: Applications/Multimedia
 URL: http://metwork.meteo.fr
 Buildroot: %{_topdir}/tmp/%{name}-root
 Packager: Fabien MARTY <fabien.marty@meteo.fr>
-Vendor: Metwork
+Vendor: Metwork 
 ExclusiveOs: linux
 AutoReq: no
 AutoProv: no
